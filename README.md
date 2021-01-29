@@ -3,6 +3,5 @@
 Meu nome é Demetrius Leonardo, estou cursando ciências da computação na Universidade Federal do Cariri.
 
 🔭 Atualmente estou estudando NodeJs e VueJs
-📫  Para entrar em contato:
-![enter image description here](https://img.icons8.com/officel/2x/linkedin.png)
-	
+
+demetriusbantimvas@gmail.com
